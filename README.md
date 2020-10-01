@@ -1,1 +1,2 @@
-# DustbinThrow-2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
